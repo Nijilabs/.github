@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
+We're Niji, or Nijilabs, we're working on quite a few prototypes and are looking forward to sharing these. In the coming months we'll be sharing more and more of our plans so stay tuned.
 
-**Here are some ideas to get you started:**
+### 🌈 Where can you find us?
+Our website will soon be up at [Nijilabs.com](https://nijilabs.com/), our information and documentation can be found there ~~soon~~. We're planning to setup other socials in the future, but for we'll focus on writing code.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🤙 Other things we wanna mention
+- We love Dungeons and Dragons
+- Our founder loves writing stories ~~but isn't ready to share these yet. Boo!~~	
+- We're from ❤️ Enschede in the Netherlands
+- You can talk to us by sending an email (or memes, foodreviews or game you recommend) to [hello@nijilabs.com](mailto:hello@nijilabs.com)
