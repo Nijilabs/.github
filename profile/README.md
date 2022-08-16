@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We're Niji, or Nijilabs, we're working on quite a few prototypes and are looking forward to sharing these. In the coming months we'll be sharing more and more of our plans so stay tuned.
+We're Nijilabs, we're working on quite a few prototypes and are looking forward to sharing these. In the coming months we'll be sharing more and more of our plans so stay tuned.
 
 ### 🌈 Where can you find us?
 Our website will soon be up at [Nijilabs.com](https://nijilabs.com/), our information and documentation can be found there ~~soon~~. We're planning to setup other socials in the future, but for we'll focus on writing code.
